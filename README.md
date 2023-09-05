@@ -1,9 +1,8 @@
-### Olá, pegue um café e fique a vontade!!
-
 <div>
-  <a href="https://github.com/matheusyuribr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusyuribr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusyuribr&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+  <img align="left" height="160px" src="profile.gif" alt="Profile picture">
 
- ![Snake animation](https://github.com/matheusyuribr/matheusyuribr/blob/output/github-contribution-grid-snake.svg)
+  <h3>Hi there, I'm Matheus 👋</h3>
+
+  Hello, my name is Matheus. I'm 23 years old and work as a fullstack developer, specializing in automation and backend. My most familiar programming language is Python. I have a great enthusiasm for solving problems and providing agile and diverse solutions to people. I firmly believe that teamwork is essential to achieve big goals. Additionally, I'm a technology enthusiast in general and a dedicated gamer.
+  <br>
+</div>
