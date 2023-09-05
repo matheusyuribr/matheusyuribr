@@ -1,5 +1,6 @@
 <div>
-  <img style="border-radius: 20px;" align="left" height="160px" src="profile.gif" alt="Profile picture">
+  <img align="left" height="160px" src="profile.gif" alt="Profile picture">
+
   
   <h3>Hi there, I'm Matheus 👋</h3>
 
