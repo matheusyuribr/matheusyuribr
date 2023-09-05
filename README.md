@@ -1,5 +1,6 @@
+<img align="left" height="160px" src="profile.gif" alt="Profile picture">
+
 <div>
-  <img align="left" height="160px" src="profile.gif" alt="Profile picture">
   <br>
   <h3>Hi there, I'm Matheus 👋</h3>
 
