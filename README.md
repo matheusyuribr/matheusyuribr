@@ -1,4 +1,3 @@
-<img align="left" height="160px" src="profile.gif" alt="Profile picture">
 
 <div>
   <br>
